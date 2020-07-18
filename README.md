@@ -1,2 +1,4 @@
 # TEGNet
-Learning to Diagnose and Explain from Physiological Time Series using Deep Learning and Expert Features
+
+Gated Temporal Convolutional Neural Network and Expert Features for Diagnosing and Explaining Physiological Time Series
+
